@@ -27,7 +27,9 @@ h1 {
    font-family: 'Gill Sans MT';
    font-size: 16px;
 }
-
+a #dieter{
+   color: #8A8E94;
+}
 #unobstrus2{
    color: red;
 }
@@ -96,7 +98,8 @@ h2{
    font-size: 50px;
    position: relative;
    text-align: center;
-   padding-top: 100px;
+   margin-top: 0px;
+   margin-left: 600px;
 }
 
 a:link{
@@ -104,11 +107,11 @@ a:link{
    color: white;
 }
 a:hover{
-   color: white;
+   color: red;
 
 }
 a:active{
-   color: red;
+   color: #8A8E94
 }
 a:visited{
    color: #8A8E94;
